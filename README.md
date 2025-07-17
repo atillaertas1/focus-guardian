@@ -43,18 +43,6 @@ npm run make
 # Output: out/make/
 ```
 
----
-
-## 📸 Screenshots
-
-Add your logo and screenshots to the `screenshots/` folder. Example:
-
-![Focus Guardian Logo](screenshots/logo.png)
-![Main Screen](screenshots/main-screen.png)
-![Dark Theme](screenshots/dark-theme.png)
-
----
-
 ## 🎮 Usage
 
 1. **Set Blocked Sites**: Enter sites to block (one per line) and save.
@@ -150,7 +138,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Author**: atillaertas1
-- **Email**: your.email@example.com
+- **Email**: atillaertas@protonmail.com
 - **GitHub**: [@atillaertas1](https://github.com/atillaertas1)
 - **Issues**: [GitHub Issues](https://github.com/atillaertas1/focus-guardian/issues)
 
