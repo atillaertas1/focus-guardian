@@ -1,0 +1,29 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#2563eb" stroke="#1e40af" stroke-width="8"/>
+  
+  <!-- Tomato shape -->
+  <ellipse cx="256" cy="280" rx="120" ry="140" fill="#ef4444"/>
+  
+  <!-- Tomato highlight -->
+  <ellipse cx="230" cy="250" rx="30" ry="40" fill="#f87171" opacity="0.7"/>
+  
+  <!-- Tomato stem -->
+  <rect x="240" y="140" width="32" height="60" fill="#22c55e" rx="16"/>
+  
+  <!-- Tomato leaves -->
+  <ellipse cx="220" cy="160" rx="20" ry="8" fill="#16a34a" transform="rotate(-30 220 160)"/>
+  <ellipse cx="292" cy="160" rx="20" ry="8" fill="#16a34a" transform="rotate(30 292 160)"/>
+  
+  <!-- Timer segments -->
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.3"/>
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#ffffff" stroke-width="8" 
+          stroke-dasharray="282.7 282.7" transform="rotate(-90 256 256)" opacity="0.8"/>
+  
+  <!-- Clock hands -->
+  <line x1="256" y1="256" x2="256" y2="180" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  <line x1="256" y1="256" x2="320" y2="256" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Center dot -->
+  <circle cx="256" cy="256" r="8" fill="#ffffff"/>
+</svg>
