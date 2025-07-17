@@ -1,6 +1,6 @@
 {
-  "name": "pomodoro-timer",
-  "productName": "Pomodoro Timer",
+  "name": "focus-guardian",
+  "productName": "Focus Guardian",
   "version": "1.0.0",
   "description": "A productive Pomodoro timer with website blocking functionality",
   "main": ".webpack/main",
@@ -14,7 +14,7 @@
   "keywords": ["pomodoro", "timer", "productivity", "focus", "website-blocker"],
   "author": {
     "name": "atilla",
-    "email": ""
+    "email": "atillaertas@protonmail.com"
   },
   "license": "MIT",
   "devDependencies": {
